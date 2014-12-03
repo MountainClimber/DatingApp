@@ -25,7 +25,7 @@
 // _m_iduser = receiver ID
 //_mainUseId = current Logged User
 
-
+//testing app
 @interface MutiualFriendViewController ()<UIGestureRecognizerDelegate>
 @property (nonatomic,retain) NSURL         * pictureURL;
 @property (strong,nonatomic) NSArray       * m_ArrFriends;
